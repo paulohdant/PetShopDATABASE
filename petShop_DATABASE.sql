@@ -1,3 +1,7 @@
+CREATE DATABASE petshop;
+
+USE petshop;
+
 CREATE TABLE cliente(
 	ID INT AUTO_INCREMENT,
 	nome VARCHAR(100),
